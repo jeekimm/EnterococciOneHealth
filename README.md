@@ -6,7 +6,7 @@
 
 This repository contains bioinformatics scripts and workflows developed during my postdoctoral research at the University of Cambridge, in collaboration with the Wellcome Sanger Institute.
 
-The research investigated the genomic diversity, distribution of antimicrobial resistance (AMR) determinants, and contribution of mobile genetic elements (MGEs) to the dissemination of resistance in *Enterococcus faecium*. across One Health-associated sources.
+The research investigated the genomic diversity, distribution of antimicrobial resistance (AMR) determinants, and contribution of mobile genetic elements (MGEs) to the dissemination of resistance in *Enterococcus faecium* across One Health-associated sources.
 
 Using Oxford Nanopore Technologies (ONT) long-read whole-genome sequencing (WGS) data and comparative genomic approaches, the project aimed to better understand the genetic mechanisms underlying AMR dissemination and the potential connectivity of resistance determinants between bacterial populations from different ecological settings.
 
